@@ -1,3 +1,3 @@
 # Code301 Portfolio
 
-[Deployed page link here](https://github.com/MattyCho/301-portfolio.git)
+[Deployed page link here](https://mattc-portfolio.netlify.app/profile-page)
